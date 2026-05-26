@@ -30,4 +30,7 @@ Results
 - Reduced order processing time by 40%
 - Achieved 99.5% data consistency across procurement operations
 
-
+Screenshots
+- [Home Page](home-page.png)
+- [Report Page 1](report-page1.png)
+- [Report Page 2](report-page2.png)
