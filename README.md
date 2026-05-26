@@ -30,5 +30,4 @@ Results
 - Reduced order processing time by 40%
 - Achieved 99.5% data consistency across procurement operations
 
-## Project Info
-Final Year Project | SASTRA University | MCA
+
